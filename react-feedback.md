@@ -45,3 +45,27 @@ By challenge #:
   because for some reason I thought "take the `TypesOfFruit` component..." meant to copy/paste the entire function into the `Fruits` component, which doesn't work.
 
 11. No suggestions.
+
+12. No suggestions.
+
+13. No suggestions.
+
+14. No suggestions.
+
+15. This seems like a leap in difficulty, especially rearranging the array on the second instance to reflect the change in results. I think a lot of people might get tripped up on that. Maybe render two components? One for today and one for tomorrow.
+
+16. through 23. No suggestions.
+
+24. Instead of writing a separate function to bind this to the function call, I would do this all in one fell swoop on the onClick handler of the button. This is the traditional way I see it on most React projects.
+
+25. This exercise recommends other resources for explaining `this` but doesn't offer any. Perhaps we should add some footnote links. Alternatively, I think you could add a sentence or two to explain the use of `this` in the context of the challenge.
+
+26. The message value `Hello!` should be `'Hello!'` since it's a string. This challenge seems like a bit of a leap without some helper code.
+
+27. The hint suggests using a fat arrow function but prior to this, it was referred to as an ES6 arrow function. I would call it the latter for consistency.
+
+28. No suggestions.
+
+29. No suggestions.
+
+30. No suggestions.
