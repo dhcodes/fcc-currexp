@@ -69,3 +69,13 @@ By challenge #:
 29. No suggestions.
 
 30. No suggestions.
+
+31. Could be a good place to also discuss the "one source of truth" approach to React. Also, 'show the name' seemed like odd wording. Maybe consider 'render the name'.
+
+32. This challenge mentions 'single source of truth' so if it were introduced in 31, it would make more sense as a reference here.
+
+33. No suggestions.
+
+34. No suggestions.
+
+35. It might be worthwhile to add more explanation of why an event listener needs to be unmounted. Also, `handleKeyDown` seems like a more apt name for the `handleKeyPress` function.
