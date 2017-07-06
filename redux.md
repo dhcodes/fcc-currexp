@@ -6,5 +6,5 @@ Redux is self-described as a "predictable state container for JavaScript apps." 
 - Logical structure of `actions` carrying data to `reducer` functions that return a new application state
 - A trackable history of changes to state
 
-Redux is often added to a project when the complexity of managing the application's state becomes tedious. It helps minimize some of the headaches that can be caused by data mutability or passing state back-and-forth between many React components. Redux also supports debugging with tools like the Chrome Browser Extension, [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en). Let's jump in to learning how Redux can simplify your React apps.
+Redux is often added to a project when the complexity of managing the application's state becomes tedious. It helps minimize some of the headaches that can be caused by data mutability or passing state back-and-forth between many React components. Redux also supports debugging with tools like [Redux DevTools](https://github.com/gaearon/redux-devtools). Let's jump in to learning how Redux can simplify your React apps.
 
